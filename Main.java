@@ -4,7 +4,7 @@ import java.awt.event.ActionListener;
 import java.util.*;
 import javax.swing.*;
 
-public class FramePanelLabel{
+public class Main{
 
       public static void main(String[] args){
 
